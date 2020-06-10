@@ -3,8 +3,8 @@ This is an app such that allow users to post photos. Users had the ability to po
 ## Features
 
 - Authentication using Firebase
-![Demo0](https://github.com/rexhanh/Snapagram/tree/master/Demo/demo0.gif)
-![Demo1](https://github.com/rexhanh/Snapagram/tree/master/Demo/demo1.gif)
+![Demo0](Demo/demo0.gif)
+![Demo1](Demo/demo1.gif)
 - Posting to a thread
 
 - Posting to a feed
