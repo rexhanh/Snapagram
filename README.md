@@ -3,7 +3,9 @@ This is an app such that allow users to post photos. Users had the ability to po
 ## Features
 
 - Authentication using Firebase
+
 ![Demo0](Demo/demo0.gif)
+
 ![Demo1](Demo/demo1.gif)
 - Posting to a thread
 
